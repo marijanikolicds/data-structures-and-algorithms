@@ -41,4 +41,5 @@ This project contains Python implementation of elementary data structures, sorti
 ## Results
 Some of the topics are discussed in the posts [here](https://medium.com/@marija.e2/).
 
+
 Feel free to use the code here as you would like!
