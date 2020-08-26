@@ -15,7 +15,8 @@ This project has resulted from my preparations for the interviews for the SWE ro
 Hope that it will help you land a job at your dream company.
 
 ## File Descriptions
-This project contains Python implementation of elementary data structures, sorting, searching, graph- and string-processing algorithms.
+This project contains Python implementation of elementary data structures, sorting, searching, graph- and string-processing algorithms. 
+In the folder _Examples_ you can find the examples of tasks related to these topics, with their corresponding reference to [LeetCode](https://leetcode.com/problems) and [Elements Of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949#:~:text=If%20so%2C%20you%20need%20to,asked%20at%20leading%20software%20companies.).
 
 ### Data Structures
 * Union Find
