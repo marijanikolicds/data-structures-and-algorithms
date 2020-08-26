@@ -1,14 +1,10 @@
 # Data structures and algorithms
 
 ## Table of Contents
-* Installation
 * Project Motivation
 * File Descriptions
+* Installation
 * Results
-
-## Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
-The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation
 This project has resulted from my preparations for the interviews for the SWE role at Google. 
@@ -37,6 +33,10 @@ In the folder _Examples_ you can find the examples of tasks related to these top
 ### Graph-processing algorithms
 
 ### String-processing algorithms
+
+## Installation
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
+The code should run with no issues using Python versions 3.*.
 
 ## Results
 Some of the topics are discussed in the posts [here](https://medium.com/@marija.e2/).
