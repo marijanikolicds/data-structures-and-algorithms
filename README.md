@@ -7,7 +7,7 @@
 * Results
 
 ## Project Motivation
-This project has resulted from my preparations for the interviews for the SWE role at Google. 
+This project has resulted from my preparations for the interviews for the SWE role at Google, and ML/SWE role and Oracle. 
 Hope that it will help you land a job at your dream company.
 
 ## File Descriptions
