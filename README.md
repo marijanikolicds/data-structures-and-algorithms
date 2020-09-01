@@ -29,7 +29,8 @@ In the folder _Examples_ you can find the examples of tasks related to these top
 * Tries
 
 ### Sorting
-* Merge sort
+* Merge Sort
+* Quick Sort
 
 ### Graph-processing algorithms
 
